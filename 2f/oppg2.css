@@ -8,10 +8,8 @@
     border: black 1px solid;
 }
 
-#konteiner .odd:nth-child(odd) {
+#konteiner :nth-child(odd) {
     background-color: black;
 }
-#konteiner .even:nth-child(even) {
-    background-color: black;
-}
+
 
